@@ -1,0 +1,21 @@
+<?xml version="2.0" encoding="UTF-10">
+<University>
+<Students category="Information">
+<Name lang="en">Sallahudin</Name>
+<RollNumber>l192732</RollNumber>
+<CGPA>3.6</CGPA>
+<AGE>21</AGE>
+</Students>
+<Faculity category="Information">
+<Name lang="en">Miss Saira Kareem</Name>
+<Post>Instructor</Post>
+<Pay>Unlimited</Pay>
+<AGE>Ni Puchty hoty</AGE>
+</Faculity>
+<Marks category="Assignment1">
+<Assignment lang=en'>Assignment 1</Assignment>
+<MaxMarks>100</MaxMarks>
+<lowestMarks>50.50</lowestMarks>
+<AverageMarks>86.50</AverageMarks>
+</Marks>
+</University>
